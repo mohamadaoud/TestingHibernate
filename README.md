@@ -1,2 +1,2 @@
 # TestingHibernate
-Testing
+This is a test
